@@ -1,4 +1,4 @@
-# INT411: AI for Forensics - Complete Lab Package
+# INT411/DFIA203: AI for Forensics - Complete Lab Package
 
 ## Overview
 
